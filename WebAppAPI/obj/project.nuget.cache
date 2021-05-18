@@ -1,15 +1,26 @@
 {
   "version": 2,
-  "dgSpecHash": "2P0zsvXRaLq3oBVjEkhOLgekaZUVflSDkqQhl2zAGuK3sLTaKUkGw90lUPBax1N/fsdR+nMvrRZS45Pb0MAy6g==",
+  "dgSpecHash": "O5rIuPBye4Tw+iRuiglHKeXPMZy5MNqFS7kiTHgI4kBoYq0fzLJyworaso2eIqNXeM0aPy+dVlemVTebyDJDNA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\WebAppAPI\\WebAppAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.1.0\\fluentvalidation.dependencyinjectionextensions.10.1.0.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

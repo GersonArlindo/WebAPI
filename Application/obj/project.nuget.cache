@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "yffBTIrHJP5MMAnRxsew/1K3rGrLbeEA2SnJSa5cYxCr+y5Q4Spw+7um4N3z3t8eGDqfeLDThjlhSwUdRwx+8Q==",
+  "dgSpecHash": "7hgLkE8TCzjcCRkYBffhGUQdebYIme8LOuOgQGFvpY2z+rkvb+87Eo1b5v159tPIKB8k1utvsws7nlyk23wZ1g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Application\\Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.1.0\\fluentvalidation.dependencyinjectionextensions.10.1.0.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
