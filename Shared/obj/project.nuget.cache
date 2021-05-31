@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rLmoDWVT7X5AH4qqmzKPAr+KzwH8WhSAWdDFFr/1iRjYLUZVh6PrrXRIqbeLQU5CTtV5nx/b6PRiFo4mWmJVcg==",
+  "dgSpecHash": "IKRlkcghpK/d6kTzV24ovkoTCOB6Biqgig0mXI8gPWL872JexcUf3Cvy7EsJQdk6kz4YKf0GXWHXwk355GyaSQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Shared\\Shared.csproj",
   "expectedPackageFiles": [
@@ -14,12 +14,14 @@
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\5.0.0\\microsoft.extensions.options.configurationextensions.5.0.0.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []

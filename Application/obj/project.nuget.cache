@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lzWAxtpkUxdNvFanPj8LA6PN9gc6v11LVkgoQIQtBK+Rp+btpHjefRicF+6wAWYbxghLIS4+/TcnK7OPAnVFIg==",
+  "dgSpecHash": "KEMD9PjHkYIEPu0jxaRK3+OgTzo1QoMAr/uOvm5lkwQnrIE0+r3WXhm1c5ctu2GXPbpFUauL6tYEDCP7DELbZA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Application\\Application.csproj",
   "expectedPackageFiles": [
@@ -14,9 +14,11 @@
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
-    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []

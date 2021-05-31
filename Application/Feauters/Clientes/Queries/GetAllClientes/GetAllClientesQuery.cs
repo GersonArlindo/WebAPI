@@ -5,6 +5,8 @@ using Application.Wrappers;
 using AutoMapper;
 using Domain.Entities;
 using MediatR;
+using Microsoft.Extensions.Caching.Distributed;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -27,18 +29,42 @@ namespace Application.Feauters.Clientes.Queries.GetAllClientes
 
             private readonly IRepositoryAsync<Cliente> _repositoryAsync;
             private readonly IMapper _mapper;
+            private readonly IDistributedCache _distributedCache;
 
-            public GetAllClientesQueryHandler(IRepositoryAsync<Cliente> repositoryAsync, IMapper mapper)
+            public GetAllClientesQueryHandler(IRepositoryAsync<Cliente> repositoryAsync, IMapper mapper, IDistributedCache distributedCache)
             {
                 _repositoryAsync = repositoryAsync;
                 _mapper = mapper;
+                _distributedCache = distributedCache;
             }
 
             public async Task<PageResponse<List<ClienteDto>>> Handle(GetAllClientesQuery request, CancellationToken cancellationToken)
             {
-                var clientes = await _repositoryAsync.ListAsync(new PagedClientesSpecification(request.PageSize, request.PageNumber, request.Nombre, request.Apellido));
-                var clientesDto = _mapper.Map<List<ClienteDto>>(clientes);
 
+                var cachekey = $"listadoClientes_{request.PageSize}_{request.PageNumber}_{request.Nombre}_{request.Apellido}";
+                string serializedListadoClientes;
+                var listadoClientes = new List<Cliente>();
+                var redisListadoClientes = await _distributedCache.GetAsync(cachekey);
+
+                if(redisListadoClientes != null)
+                {
+                    serializedListadoClientes = Encoding.UTF8.GetString(redisListadoClientes);
+                    listadoClientes = JsonConvert.DeserializeObject<List<Cliente>>(serializedListadoClientes);
+                }
+                else
+                {
+                    listadoClientes = await _repositoryAsync.ListAsync(new PagedClientesSpecification(request.PageSize, request.PageNumber, request.Nombre, request.Apellido));
+                    serializedListadoClientes = JsonConvert.SerializeObject(listadoClientes);
+                    redisListadoClientes = Encoding.UTF8.GetBytes(serializedListadoClientes);
+
+                    var options = new DistributedCacheEntryOptions()
+                        .SetAbsoluteExpiration(DateTime.Now.AddMinutes(10))
+                        .SetSlidingExpiration(TimeSpan.FromMinutes(2));
+
+                    await _distributedCache.SetAsync(cachekey, redisListadoClientes, options);
+                }
+
+                var clientesDto = _mapper.Map<List<ClienteDto>>(listadoClientes);
                 return new PageResponse<List<ClienteDto>>(clientesDto, request.PageNumber, request.PageSize);
             }
         }
