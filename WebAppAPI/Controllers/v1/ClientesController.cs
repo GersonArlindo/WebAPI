@@ -1,6 +1,7 @@
 ﻿using Application.Feauters.Clientes.Commands.CreateClienteCommand;
 using Application.Feauters.Clientes.Commands.DeleteClienteCommand;
 using Application.Feauters.Clientes.Commands.UpdateClienteCommand;
+using Application.Feauters.Clientes.Queries.GetClienteById;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -13,6 +14,14 @@ namespace WebAppAPI.Controllers.v1
     [ApiVersion("1.0")]
     public class ClientesController : BaseApiController
     {
+        //GET: api/<controller>/5
+        [HttpGet("{id}")]
+        public async Task<IActionResult> Get(int id)
+        {
+            return Ok(await Mediator.Send(new GetClienteByIdQuery { Id = id}));
+        }
+
+
         //POST api/<controller>
         [HttpPost]
         public async Task<IActionResult> Post(CreateClienteCommand command)
