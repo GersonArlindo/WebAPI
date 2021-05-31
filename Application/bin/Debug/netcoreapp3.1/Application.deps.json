@@ -11,6 +11,7 @@
           "Ardalis.Specification": "5.1.0",
           "AutoMapper": "10.1.1",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.1",
+          "Domain": "1.0.0",
           "FluentValidation": "10.2.1",
           "FluentValidation.DependencyInjectionExtensions": "10.2.1",
           "MediatR.Extensions.Microsoft.DependencyInjection": "9.0.0"
@@ -143,7 +144,12 @@
           }
         }
       },
-      "System.Reflection.Emit/4.7.0": {}
+      "System.Reflection.Emit/4.7.0": {},
+      "Domain/1.0.0": {
+        "runtime": {
+          "Domain.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -249,6 +255,11 @@
       "sha512": "sha512-VR4kk8XLKebQ4MZuKuIni/7oh+QGFmZW3qORd1GvBq/8026OpW501SzT/oypwiQl4TvT8ErnReh/NzY9u+C6wQ==",
       "path": "system.reflection.emit/4.7.0",
       "hashPath": "system.reflection.emit.4.7.0.nupkg.sha512"
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

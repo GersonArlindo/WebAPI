@@ -15,8 +15,6 @@
 
   <ItemGroup>
     <Folder Include="DTOs\" />
-    <Folder Include="Feauters\Clientes\Commands\DeleteClienteCommand\" />
-    <Folder Include="Feauters\Clientes\Commands\UpdateClienteCommand\" />
     <Folder Include="Feauters\Clientes\Queries\GetAllClientes\" />
     <Folder Include="Feauters\Clientes\Queries\GetClienteById\" />
     <Folder Include="Filters\" />

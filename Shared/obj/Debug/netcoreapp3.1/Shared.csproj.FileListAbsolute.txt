@@ -10,3 +10,5 @@ C:\Users\Gerson Arlindo\source\repos\RestFulAPI\Shared\obj\Debug\netcoreapp3.1\S
 C:\Users\Gerson Arlindo\source\repos\RestFulAPI\Shared\bin\Debug\netcoreapp3.1\Application.dll
 C:\Users\Gerson Arlindo\source\repos\RestFulAPI\Shared\bin\Debug\netcoreapp3.1\Application.pdb
 C:\Users\Gerson Arlindo\source\repos\RestFulAPI\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.CopyComplete
+C:\Users\Gerson Arlindo\source\repos\RestFulAPI\Shared\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Gerson Arlindo\source\repos\RestFulAPI\Shared\bin\Debug\netcoreapp3.1\Domain.pdb
