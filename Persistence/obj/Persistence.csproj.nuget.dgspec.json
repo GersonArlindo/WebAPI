@@ -27,7 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Domain\\Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

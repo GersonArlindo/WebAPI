@@ -35,7 +35,8 @@ namespace Application.Feauters.Clientes.Commands.CreateClienteCommand
                 .MaximumLength(100).WithMessage("{ PropertyName} no debe exceder de {MaxLength} caracteres");
             RuleFor(p => p.Direccion)
                 .NotEmpty().WithMessage("{PropertyName} no puede estar vacio.")
-                .MaximumLength(120).WithMessage("{ PropertyName} no debe exceder de {MaxLength} caracteres");
+                .MaximumLength(120).WithMessage("{ PropertyName} no debe exceder de {MaxLength} caracteres"); 
+
         }
     }
 }

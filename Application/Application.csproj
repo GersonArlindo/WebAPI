@@ -20,7 +20,10 @@
     <Folder Include="Feauters\Clientes\Queries\GetAllClientes\" />
     <Folder Include="Feauters\Clientes\Queries\GetClienteById\" />
     <Folder Include="Filters\" />
-    <Folder Include="Mappings\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
 
 </Project>
