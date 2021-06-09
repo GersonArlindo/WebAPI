@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Shared\\Shared.csproj": {}
+    "C:\\Users\\Hernan\\Desktop\\WebAPI\\Noel\\WebAPI\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Application\\Application.csproj": {
+    "C:\\Users\\Hernan\\Desktop\\WebAPI\\Noel\\WebAPI\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Hernan\\Desktop\\WebAPI\\Noel\\WebAPI\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Application\\obj\\",
+        "projectPath": "C:\\Users\\Hernan\\Desktop\\WebAPI\\Noel\\WebAPI\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Hernan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hernan\\Desktop\\WebAPI\\Noel\\WebAPI\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gerson Arlindo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hernan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Domain\\Domain.csproj"
+              "C:\\Users\\Hernan\\Desktop\\WebAPI\\Noel\\WebAPI\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Hernan\\Desktop\\WebAPI\\Noel\\WebAPI\\Domain\\Domain.csproj"
               }
             }
           }
@@ -92,21 +92,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Domain\\Domain.csproj": {
+    "C:\\Users\\Hernan\\Desktop\\WebAPI\\Noel\\WebAPI\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Hernan\\Desktop\\WebAPI\\Noel\\WebAPI\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\Hernan\\Desktop\\WebAPI\\Noel\\WebAPI\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Hernan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hernan\\Desktop\\WebAPI\\Noel\\WebAPI\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gerson Arlindo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hernan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -146,21 +146,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Shared\\Shared.csproj": {
+    "C:\\Users\\Hernan\\Desktop\\WebAPI\\Noel\\WebAPI\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Hernan\\Desktop\\WebAPI\\Noel\\WebAPI\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Shared\\Shared.csproj",
-        "packagesPath": "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\Hernan\\Desktop\\WebAPI\\Noel\\WebAPI\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\Hernan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hernan\\Desktop\\WebAPI\\Noel\\WebAPI\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gerson Arlindo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hernan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -174,8 +174,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Gerson Arlindo\\source\\repos\\RestFulAPI\\Application\\Application.csproj"
+              "C:\\Users\\Hernan\\Desktop\\WebAPI\\Noel\\WebAPI\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Hernan\\Desktop\\WebAPI\\Noel\\WebAPI\\Application\\Application.csproj"
               }
             }
           }
@@ -210,7 +210,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
