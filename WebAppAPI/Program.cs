@@ -16,7 +16,7 @@ namespace WebAppAPI
 {
     public class Program
     {
-        public async static void Main(string[] args)
+        public async static Task Main(string[] args)
         {
             var host = CreateHostBuilder(args).Build();
             using(var scope= host.Services.CreateScope())
@@ -38,6 +38,8 @@ namespace WebAppAPI
                     throw;
                 }
             }
+
+            host.Run();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
