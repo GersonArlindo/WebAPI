@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Domain.Settings
 {
-    public class JWT
+    public class JWTSettings
     {
         public string Key { get; set; }
         public string Issuer { get; set; }
