@@ -1,0 +1,44 @@
+C:\Users\Gerson Arlindo\source\repos\RestFulAPI\Shared\bin\Debug\netcoreapp3.1\Shared.deps.json
+C:\Users\Gerson Arlindo\source\repos\RestFulAPI\Shared\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\Gerson Arlindo\source\repos\RestFulAPI\Shared\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\Gerson Arlindo\source\repos\RestFulAPI\Shared\obj\Debug\netcoreapp3.1\Shared.csprojAssemblyReference.cache
+C:\Users\Gerson Arlindo\source\repos\RestFulAPI\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfoInputs.cache
+C:\Users\Gerson Arlindo\source\repos\RestFulAPI\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfo.cs
+C:\Users\Gerson Arlindo\source\repos\RestFulAPI\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Arlindo\source\repos\RestFulAPI\Shared\obj\Debug\netcoreapp3.1\Shared.dll
+C:\Users\Gerson Arlindo\source\repos\RestFulAPI\Shared\obj\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\Gerson Arlindo\source\repos\RestFulAPI\Shared\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Gerson Arlindo\source\repos\RestFulAPI\Shared\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Gerson Arlindo\source\repos\RestFulAPI\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.CopyComplete
+C:\Users\Gerson Arlindo\source\repos\RestFulAPI\Shared\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Gerson Arlindo\source\repos\RestFulAPI\Shared\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\ludwi\Desktop\WebAPI\Ludwin\WebAPI\Shared\bin\Debug\netcoreapp3.1\Shared.deps.json
+C:\Users\ludwi\Desktop\WebAPI\Ludwin\WebAPI\Shared\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\ludwi\Desktop\WebAPI\Ludwin\WebAPI\Shared\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\ludwi\Desktop\WebAPI\Ludwin\WebAPI\Shared\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\ludwi\Desktop\WebAPI\Ludwin\WebAPI\Shared\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\ludwi\Desktop\WebAPI\Ludwin\WebAPI\Shared\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\ludwi\Desktop\WebAPI\Ludwin\WebAPI\Shared\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\ludwi\Desktop\WebAPI\Ludwin\WebAPI\Shared\obj\Debug\netcoreapp3.1\Shared.csprojAssemblyReference.cache
+C:\Users\ludwi\Desktop\WebAPI\Ludwin\WebAPI\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfoInputs.cache
+C:\Users\ludwi\Desktop\WebAPI\Ludwin\WebAPI\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfo.cs
+C:\Users\ludwi\Desktop\WebAPI\Ludwin\WebAPI\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.CoreCompileInputs.cache
+C:\Users\ludwi\Desktop\WebAPI\Ludwin\WebAPI\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.CopyComplete
+C:\Users\ludwi\Desktop\WebAPI\Ludwin\WebAPI\Shared\obj\Debug\netcoreapp3.1\Shared.dll
+C:\Users\ludwi\Desktop\WebAPI\Ludwin\WebAPI\Shared\obj\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\Aby\Desktop\Proyecto Final\WebAPI-master\Shared\bin\Debug\netcoreapp3.1\Shared.deps.json
+C:\Users\Aby\Desktop\Proyecto Final\WebAPI-master\Shared\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\Aby\Desktop\Proyecto Final\WebAPI-master\Shared\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\Aby\Desktop\Proyecto Final\WebAPI-master\Shared\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Aby\Desktop\Proyecto Final\WebAPI-master\Shared\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Aby\Desktop\Proyecto Final\WebAPI-master\Shared\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Aby\Desktop\Proyecto Final\WebAPI-master\Shared\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Aby\Desktop\Proyecto Final\WebAPI-master\Shared\obj\Debug\netcoreapp3.1\Shared.csprojAssemblyReference.cache
+C:\Users\Aby\Desktop\Proyecto Final\WebAPI-master\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfoInputs.cache
+C:\Users\Aby\Desktop\Proyecto Final\WebAPI-master\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfo.cs
+C:\Users\Aby\Desktop\Proyecto Final\WebAPI-master\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Aby\Desktop\Proyecto Final\WebAPI-master\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.CopyComplete
+C:\Users\Aby\Desktop\Proyecto Final\WebAPI-master\Shared\obj\Debug\netcoreapp3.1\Shared.dll
+C:\Users\Aby\Desktop\Proyecto Final\WebAPI-master\Shared\obj\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\Aby\Desktop\Proyecto Final\WebAPI-master\Shared\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\Aby\Desktop\Proyecto Final\WebAPI-master\Shared\bin\Debug\netcoreapp3.1\Persistence.pdb
