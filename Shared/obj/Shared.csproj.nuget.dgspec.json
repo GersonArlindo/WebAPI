@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Shared\\Shared.csproj": {}
+    "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Application\\Application.csproj": {
+    "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\ludwi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Application\\obj\\",
+        "projectPath": "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Aby\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ludwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aby\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Domain\\Domain.csproj"
+              "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Domain\\Domain.csproj"
               }
             }
           }
@@ -96,24 +96,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Domain\\Domain.csproj": {
+    "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\ludwi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Aby\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ludwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aby\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -154,24 +154,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Shared\\Shared.csproj": {
+    "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Shared\\Shared.csproj",
-        "packagesPath": "C:\\Users\\ludwi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\Aby\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ludwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aby\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -186,8 +186,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Application\\Application.csproj"
+              "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Application\\Application.csproj"
               }
             }
           }
@@ -222,7 +222,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

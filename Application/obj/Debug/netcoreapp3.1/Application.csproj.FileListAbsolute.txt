@@ -22,3 +22,15 @@ C:\Users\ludwi\Desktop\WebAPI\Ludwin\WebAPI\Application\obj\Debug\netcoreapp3.1\
 C:\Users\ludwi\Desktop\WebAPI\Ludwin\WebAPI\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
 C:\Users\ludwi\Desktop\WebAPI\Ludwin\WebAPI\Application\obj\Debug\netcoreapp3.1\Application.dll
 C:\Users\ludwi\Desktop\WebAPI\Ludwin\WebAPI\Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Aby\Desktop\DPWA FINAL\WebAPI\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\Aby\Desktop\DPWA FINAL\WebAPI\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Aby\Desktop\DPWA FINAL\WebAPI\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Aby\Desktop\DPWA FINAL\WebAPI\Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Aby\Desktop\DPWA FINAL\WebAPI\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Aby\Desktop\DPWA FINAL\WebAPI\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Users\Aby\Desktop\DPWA FINAL\WebAPI\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\Aby\Desktop\DPWA FINAL\WebAPI\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\Aby\Desktop\DPWA FINAL\WebAPI\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\Aby\Desktop\DPWA FINAL\WebAPI\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\Aby\Desktop\DPWA FINAL\WebAPI\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\Aby\Desktop\DPWA FINAL\WebAPI\Application\obj\Debug\netcoreapp3.1\Application.pdb
