@@ -15,6 +15,7 @@ using Domain.Settings;
 using Identity.Helpers;
 using Identity.Models;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 
 namespace Identity.Services
@@ -28,12 +29,12 @@ namespace Identity.Services
         private readonly JWTSettings _jwtSettings;
         private readonly IDateTimeService _dateTimeService;
 
-        public AccountService(UserManager<ApplicationUser> userManager, RoleManager<IdentityRole> roleManager, SignInManager<ApplicationUser> signInManager, JWTSettings jwtSettings, IDateTimeService dateTimeService)
+        public AccountService(UserManager<ApplicationUser> userManager, RoleManager<IdentityRole> roleManager, SignInManager<ApplicationUser> signInManager, IOptions<JWTSettings> jwtSettings, IDateTimeService dateTimeService)
         {
             _userManager = userManager;
             _roleManager = roleManager;
             _signInManager = signInManager;
-            _jwtSettings = jwtSettings;
+            _jwtSettings = jwtSettings.Value;
             _dateTimeService = dateTimeService;
         }
 

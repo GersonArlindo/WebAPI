@@ -57,6 +57,8 @@ namespace WebAppAPI
 
             app.UseRouting();
 
+            app.UseAuthentication();
+
             app.UseAuthorization();
 
             app.UseErrorHandingMiddleware();

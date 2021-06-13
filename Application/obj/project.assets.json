@@ -576,23 +576,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ludwi\\.nuget\\packages\\": {},
+    "C:\\Users\\Aby\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\ludwi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Application\\obj\\",
+      "projectPath": "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\Aby\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\ludwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aby\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -607,8 +607,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Domain\\Domain.csproj"
+            "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Domain\\Domain.csproj"
             }
           }
         }
@@ -671,7 +671,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ludwi\\.nuget\\packages\\": {},
+    "C:\\Users\\Aby\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\ludwi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ludwi\\Desktop\\WebAPI\\Ludwin\\WebAPI\\Domain\\obj\\",
+      "projectPath": "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\Aby\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aby\\Desktop\\DPWA FINAL\\WebAPI\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\ludwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aby\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
